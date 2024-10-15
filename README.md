@@ -1,1 +1,1 @@
-# Alci Calamares config - no desktop
+# shireOS Calamares config - no desktop

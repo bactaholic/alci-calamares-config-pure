@@ -121,12 +121,12 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         SHIREOS
-    shortProductName:    SHIREOS
+    productName:         shireOS
+    shortProductName:    shireOS
     version:             2023.10.15
     shortVersion:        2023.10.15
-    versionedName:       SHIREOS
-    shortVersionedName:  SHIREOS
+    versionedName:       shireOS
+    shortVersionedName:  shireOS
     bootloaderEntryName: shireOS
 
 # These images are loaded from the branding module directory.
