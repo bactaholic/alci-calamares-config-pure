@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         ALCI
-    shortProductName:    ALCI
-    version:             2023.01.1
-    shortVersion:        2023.01.1
-    versionedName:       ALCI
-    shortVersionedName:  ALCI
-    bootloaderEntryName: Arch
+    productName:         SHIREOS
+    shortProductName:    SHIREOS
+    version:             2023.10.15
+    shortVersion:        2023.10.15
+    versionedName:       SHIREOS
+    shortVersionedName:  SHIREOS
+    bootloaderEntryName: shireOS
 
 # These images are loaded from the branding module directory.
 #
@@ -161,7 +161,7 @@ images:
     productIcon:         "squid.png"
     productLogo:         "squid.png"
     # productWallpaper:    "wallpaper.png"
-    productWelcome:      "alci.png"
+    productWelcome:      "SHIREOS.png"
 
 # Colors for text and background components.
 #

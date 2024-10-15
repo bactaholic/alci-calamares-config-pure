@@ -59,7 +59,7 @@ Presentation
 
     Image {
         id: background2
-        source: "2-alci.png"
+        source: "2-welcometo.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
         fillMode: Image.Stretch
